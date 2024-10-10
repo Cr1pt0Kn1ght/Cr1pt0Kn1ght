@@ -9,7 +9,7 @@
 •Scripting: Automating tasks with Bash, Python, and other scripting languages.</h6></p></p>
 
 <p><h5>🛠️ Featured Project:</h5></p>
-<p><h6><a href="https://github.com/Cr1pt0Kn1ght/Cr1pt0Kn1ght-S3cu-Tools">Cr1pt0Kn1ght-S3cu-Tools</a></p>
+<p><h6><a href="https://github.com/Cr1pt0Kn1ght/cr1pt0Kn1ght-s3cu-tools">Cr1pt0Kn1ght-S3cu-Tools</a></p>
 <p>A collection of security tools for cybersecurity professionals and enthusiasts:</p>
 <p>•Password Generator (Bash)</p>
 <p>•More tools coming soon...</h6></p></p>
